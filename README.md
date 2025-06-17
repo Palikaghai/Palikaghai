@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Palika Ghai 
+# 👋 Hi, I'm Palika Ghai 
 
 🎓 B.Tech Student | 🌱 Lifelong Learner
 
@@ -31,14 +31,8 @@
 ---
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Palikaghai&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-
----
-
-
-## ✨ Let's Connect!
+# ✨ Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palikaghai) 
 
 
@@ -49,4 +43,4 @@
 
 
 
-## ✨The goal is to turn data into information, and information into insight ✨
+# ✨The goal is to turn data into information, and information into insight ✨
