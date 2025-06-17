@@ -1,29 +1,21 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Palika Ghai 
 
-🎓 B.Tech Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner
+🎓 B.Tech Student | 🌱 Lifelong Learner
 
 ---
 
 ## 💡 About Me
-- 🧑‍🎓 B.Tech in [Your Branch] from [Your College]
-- 👨‍💻 Passionate about software development, open source, and problem-solving
+- 🧑‍🎓 B.Tech in Computer Science from Lovely Professional University
+- 👨‍💻 Passionate about learning,e, and problem-solving
 - 📚 Currently learning **[Tech/Language, e.g., Full Stack Development / Machine Learning]**
-- 💬 Ask me about **Python, C++, Web Dev, DSA**
-- 🌐 Portfolio: [your-portfolio-link]  
-- 📫 How to reach me: [your-email@example.com]
+- 💬 Ask me about **Python, C++, SQL, DSA**
+- 💡 Passionate about turning data into actionable insights
+- 🔍 Interested in **Machine Learning**, **Data Visualization**, and **AI**
 
 ---
 
 ## 🛠️ Tech Stack
-![Languages](https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,mysql,git,github)
-
----
-
-## 🚀 Projects
-Here are some projects I’ve worked on:
-- 📝 [Project Name 1](link) – A short 1-line description
-- 💻 [Project Name 2](link) – Describe what tech it uses
-- 🤖 [Project Name 3](link) – Optional demo links or screenshots
+![Languages](https://skillicons.dev/icons?i=cpp,python,java,js,html,css,c,mysql,,pandas,numpy,sklearn,postgres,git,github)
 
 ---
 
@@ -37,4 +29,14 @@ Here are some projects I’ve worked on:
 
 ## ✨ Let's Connect!
 
-[![LinkedIn](https:)]()
+[![LinkedIn](https://www.linkedin.com/in/palikaghai/)]()
+
+
+
+
+
+
+
+
+
+# ✨The goal is to turn data into information, and information into insight ✨
