@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Palika Ghai 
+## 👋 Hi, I'm Palika Ghai 
 
 🎓 B.Tech Student | 🌱 Lifelong Learner
 
