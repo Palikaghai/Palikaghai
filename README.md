@@ -7,7 +7,7 @@
 ## 💡 About Me
 - 🧑‍🎓 B.Tech in Computer Science from Lovely Professional University
 - 👨‍💻 Passionate about learning,e, and problem-solving
-- 📚 Currently learning **[Tech/Language, e.g., Full Stack Development / Machine Learning]**
+- 📚 Currently learning & doing a major in  **[ Data Science]**
 - 💬 Ask me about **Python, C++, SQL, DSA**
 - 💡 Passionate about turning data into actionable insights
 - 🔍 Interested in **Machine Learning**, **Data Visualization**, and **AI**
