@@ -5,7 +5,7 @@
 ---
 
 ## 💡 About Me
-- 🧑‍🎓 B.Tech in Computer Science from Lovely Professional University
+- 🧑‍🎓 B.Tech in Computer Science 
 - 👨‍💻 Passionate about learning,e, and problem-solving
 - 📚 Currently learning & doing a major in  **[ Data Science]**
 - 💬 Ask me about **Python, C++, SQL, DSA**
