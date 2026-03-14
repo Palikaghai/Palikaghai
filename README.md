@@ -44,9 +44,10 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Palikaghai/Palikaghai/output/snake.svg" alt="snake animation"/>
-</p>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Palikaghai/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
