@@ -45,7 +45,7 @@
 ## 🐍 Contribution Snake
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Palikaghai/snk/output/github-contribution-grid-snake.svg">
 <img src="https://raw.githubusercontent.com/Palikaghai/Palikaghai/output/snake.svg" alt="Snake animation" />
 
 ###
