@@ -9,7 +9,7 @@
 * 🤖 Interested in **Machine Learning & AI**
 * 💡 Passionate about **Data Analytics & Visualization**
 * 🌱 Currently learning **Advanced Machine Learning & Cloud**
-* 💬 Ask me about **Python, SQL, C++, DSA**
+* 💬 Ask me about **Python, SQL, DSA**
 
 ---
 
