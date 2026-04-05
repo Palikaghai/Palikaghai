@@ -42,12 +42,6 @@
 
 ---
 
-
-
-###
-
----
-
 ## 🌐 Connect With Me
 
 <a href="https://linkedin.com/in/palikaghai">
