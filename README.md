@@ -20,5 +20,4 @@
 
 
 ## ✨ Motto
-
 > **Turning Data into Information and Information into Insight 🚀**
