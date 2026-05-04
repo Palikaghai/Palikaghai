@@ -2,7 +2,7 @@
 <h3 align="center">📊 Data Science Student | 🤖 ML & AI Enthusiast | 💻 Problem Solver</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Building data-driven projects like recommendation systems and machine learning models with real-world applications.<br><br>👯 I’m looking to collaborate on<br>Data science, machine learning, and analytics projects—especially those involving NLP or real-world datasets.<br><br>🤝 I’m looking for help with<br>Advanced machine learning techniques, model optimization, and deploying ML models in production.<br><br>🌱 I’m currently learning<br>Deep learning, advanced NLP, and improving my skills in data visualization tools like Power BI and Tableau.<br><br>💬 Ask me about<br>Python, data analysis, machine learning models, and problem-solving strategies.<br><br>⚡ Fun fact<br>I’ve solved 280+ coding problems and participated in 35+ hackathons—so I genuinely enjoy solving complex challenges!
+🔭 I’m currently working on<br>Building data-driven projects like recommendation systems and machine learning models with real-world applications.<br><br>👯 I’m looking to collaborate on<br>Data science, machine learning, and analytics projects—especially those involving NLP or real-world datasets.<br><br>🤝 I’m looking for help with<br>Advanced machine learning techniques, model optimization, and deploying ML models in production.<br><br>🌱 I’m currently learning<br>Deep learning, advanced NLP, and improving my skills in data visualization tools like Power BI and Tableau.<br><br>💬 Ask me about<br>Python, data analysis, machine learning models, and problem-solving strategies.<br><br>⚡ Fun fact<br>I’ve solved 280+ coding problems and participated in 35+ hackathons, sI genuinely enjoy solving complex challenges!
 
 
 ## 🌐 Socials:
