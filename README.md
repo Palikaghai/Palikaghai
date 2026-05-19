@@ -10,7 +10,6 @@
 
 ## 🌟 **About Me**
 
-<img align="right" height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJV3/giphy.gif" alt="Coding">
 
 - 🔭 **Currently Building:** Data-driven projects like recommendation systems and ML models with real-world impact
 - 👯 **Collaborating On:** Data science, machine learning, and analytics projects (especially NLP & real-world datasets)
