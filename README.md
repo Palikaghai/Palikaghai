@@ -97,6 +97,6 @@
 
 <img src="https://media.giphy.com/media/iY3p6zrkK59qwdGGAA/giphy.gif" width="400" height="200" alt="Data Science">
 
-<img src="https://komarev.com/ghpvc/?username=palikaghai&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 
 </div>
