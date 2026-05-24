@@ -95,7 +95,7 @@
 ### ✨ **Motto**
 > **"Turning Data into Information and Information into Insight 🚀"**
 
-<img src="https://media.giphy.com/media/iY3p6zrkK59qwdGGAA/giphy.gif" width="400" height="200" alt="Data Science">
+
 
 
 
