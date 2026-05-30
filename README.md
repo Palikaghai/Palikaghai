@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm **Palika Ghai**
+#  Hi, I'm **Palika Ghai**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&width=600&lines=📊+Data+Science+Student;🤖+ML+%26+AI+Enthusiast;💻+Problem+Solver;🚀+Turning+Data+Into+Insights)](https://git.io/typing-svg)
 
