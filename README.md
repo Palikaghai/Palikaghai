@@ -73,7 +73,7 @@
 
 ## 🏆 **Achievements**
 
-- ✅ 280+ Coding Problems Solved
+- ✅ 350+ Coding Problems Solved on LeetCode
 - 🎯 35+ Hackathons Participated
 - 📚 Proficient in Python, Data Analysis & Machine Learning
 - 🚀 Built data-driven solutions with real-world applications
