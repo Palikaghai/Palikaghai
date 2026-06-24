@@ -16,7 +16,7 @@
 - 🤝 **Seeking Help With:** Advanced ML techniques, model optimization & production deployment
 - 🌱 **Learning:** Deep learning, advanced NLP, Power BI & Tableau
 - 💬 **Ask Me About:** Python, data analysis, ML models & problem-solving strategies
-- ⚡ **Fun Fact:** 280+ coding problems solved & 35+ hackathons participated in! 🏆
+- ⚡ **Fun Fact:** 350+ coding problems solved & 35+ hackathons participated in! 🏆
 
 ---
 
